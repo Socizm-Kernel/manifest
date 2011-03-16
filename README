@@ -1,1 +1,7 @@
 Socizm Repo Manifest
+
+Repo Script:
+http://android.git.kernel.org/repo
+
+repo init -u git://github.com/Socizm-Kernel/manifest.git
+repo sync
