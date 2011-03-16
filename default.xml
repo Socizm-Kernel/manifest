@@ -15,6 +15,7 @@
   <project path="prebuilt" name="platform/prebuilt" />
 
   <project path="manifest" name="Socizm-Kernel/manifest" revision="master" remote="github" />
+  <project path="build" name="Socizm-Kernel/build" revision="master" remote="github" />
   <project path="socizm" name="Socizm-Kernel/socizm" revision="master" remote="github" />
 
 </manifest>
