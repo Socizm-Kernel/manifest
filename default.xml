@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="korg"
+           fetch="git://android.git.kernel.org/"
+           review="review.source.android.com" />
+
+  <remote  name="github"
+           fetch="git://github.com/" />
+
+
+  <default revision="gingerbread-release"
+           remote="korg" />
+
+
+  <project path="prebuilt" name="platform/prebuilt" />
+
+  <project path="manifest" name="Socizm-Kernel/manifest" revision="master" remote="github" />
+  <project path="socizm" name="Socizm-Kernel/socizm" revision="master" remote="github" />
+
+</manifest>
