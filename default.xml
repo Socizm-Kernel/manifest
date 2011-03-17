@@ -12,7 +12,9 @@
            remote="korg" />
 
 
-  <project path="prebuilt" name="platform/prebuilt" />
+  <project path="kernel" name="koush/AnyKernel" revision="master" remote="github" />
+
+  <project path="prebuilt" name="platform/prebuilt" remote="korg" />
 
   <project path="manifest" name="Socizm-Kernel/manifest" revision="master" remote="github" />
   <project path="build" name="Socizm-Kernel/build" revision="master" remote="github" />
