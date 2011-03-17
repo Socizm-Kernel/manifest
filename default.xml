@@ -12,7 +12,7 @@
            remote="korg" />
 
 
-  <project path="kernel" name="koush/AnyKernel" revision="master" remote="github" />
+  <project path="template" name="koush/AnyKernel" revision="master" remote="github" />
 
   <project path="prebuilt" name="platform/prebuilt" remote="korg" />
 
